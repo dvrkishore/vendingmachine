@@ -7,10 +7,10 @@ Vending Machine Java Application
 
 
 ### RUN as executable Jar
-(Build) [ build the source code as below)
+# Build the source code as below
 mvn clean build
 
-(Run Executable)
+# Run the Executable
 java -jar target/vendingmachine-1.0.jar
 
 
