@@ -3,7 +3,7 @@ Vending Machine Java Application
 
 # Run from IDE
 1. Open the project in your preferred IDE
-2. Run the man class VendingMachine.java
+2. Run the main class VendingMachine.java
 
 
 # RUN as executable Jar
