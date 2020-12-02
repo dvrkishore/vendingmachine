@@ -1,4 +1,4 @@
-# vendingmachine
+# Vending Machine
 Vending Machine Java Application
 
 # Run from IDE
