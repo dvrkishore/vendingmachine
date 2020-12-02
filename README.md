@@ -1,12 +1,12 @@
 # Vending Machine
 Vending Machine Java Application
 
-# Run from IDE
+## Run from IDE
 1. Open the project in your preferred IDE
 2. Run the main class VendingMachine.java
 
 
-# RUN as executable Jar
+## RUN as executable Jar
 ### Build the source code as below
 mvn clean build
 
